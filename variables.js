@@ -1,4 +1,4 @@
-/* //console.log("My name is Sarguna")
+/* //console.log("My  is Sarguna")
 var x = 12;
 var y = 9;
 var z = 7;
@@ -22,10 +22,10 @@ var age = 25;
 //   if (age < 29) {
 //     if (age < 28) {
 //       if (age < 27) {
-//         var name = "Sarguna";
+//         var  = "Sarguna";
 //         if (age < 26) {
-//           /* "name" is accessible here because this is within scope */
-//           console.log(">>>>>>>>>>>> Name within scope: ", name);
+//           /* "" is accessible here because this is within scope */
+//           console.log(">>>>>>>>>>>>  within scope: ", );
 //         }
 //       }
 //     }
@@ -87,13 +87,13 @@ if (monthOfBirth < "Jan") {
 // console.log(">>>>>>>>>>>> Name Out of scope or Global scope: ", gender);
 // }
 // }
-let firstname = "siva";
-const secondname = "sakthi";
-const total = firstname + secondname;
+let first = "siva";
+const second = "sakthi";
+const total = first + second;
 
 for (i = 0; i < 8; i++) {
-  console.log("tha first name is:", firstname);
-  console.log("the second name is:", secondname);
+  console.log("tha first  is:", first);
+  console.log("the second  is:", second);
   console.log("total:", total);
   console.log(i);
 }
